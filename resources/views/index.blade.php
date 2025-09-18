@@ -40,7 +40,7 @@
   <!--TUTUP SECTION BERITA-->
 
 
-  <!-- Tambahkan style di bagian <head> atau sebelum penutup </body> -->
+ 
 <style>
   .card-header img {
     height: 150px;
@@ -50,9 +50,11 @@
   }
 </style>
 
-<div class="card my-5">
+
   <div class="card-header text-center">
+    <div class="card">
     <h2>Kompetensi Keahlian</h2>
+    </div>
   </div>
 
   <div class="row my-3">
@@ -105,9 +107,10 @@
         </div>
 
         <!-- Desain Komunikasi Visual -->
+        <div class="row g-3 justify-content-center mt-1">
         <div class="col-md-4">
           <div class="card h-100">
-            <div class="card-header text-center">
+            <div class="card-header text-center ">
               <img src="logodkv.png" alt="Desain Komunikasi Visual" class="img-fluid">
             </div>
             <div class="card-body d-flex flex-column">
@@ -137,7 +140,8 @@
       </div> <!-- end row g-3 -->
     </div> <!-- end col-12 -->
   </div> <!-- end row my-3 -->
-</div> <!-- end main card -->
+
+
 
   <!--SECTION GALERI-->
   <div class="row my-5">

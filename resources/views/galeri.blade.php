@@ -1,6 +1,7 @@
 
 <x-header />
-    <!--SECTION BERITA-->
+
+<!--SECTION GALERI-->
   <div class="row my-5">
     <div class="col-12">
       <h2>GALERI</h2>
@@ -72,7 +73,7 @@
 
     </div>
   </div>
-  <!--TUTUP SECTION BERITA-->
+  <!--TUTUP SECTION GALERI-->
 <x-footer />
     
     

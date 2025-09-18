@@ -94,7 +94,7 @@
             <p>Kota: Tasikmalaya</p>
             <p>Provinsi: Jawa Barat</p>
             <p>Telp/Faks: (0265)7528981</p>
-            <p>Website</strong>: <a href="http://www.smkn4-tsm.sch.id">www.smkn4-tsm.sch.id</p>
+              <a href="/identitas" class="btn btn-outline-primary">baca selengkapnya</a>
           </ul>
         </div>
       </div>

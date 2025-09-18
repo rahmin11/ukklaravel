@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="css/bs.min.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
   <title>Website Resmi SMKN 4 Tasikmalaya</title>
+  
 </head>
 <body>
   <div class="container">
@@ -30,7 +31,7 @@
           <a class="nav-link {{ request()->is("ektrakulikuler") ? "active" : false }}" href="/ektrakulikuler" >Ektrakulikuler</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {{ request()->is("galeri.0") ? "active" : false }}" href="/galeri">Galeri</a>
+          <a class="nav-link {{ request()->is("galeri") ? "active" : false }}" href="/galeri" >Galeri</a>
         </li>
       </ul>
     </div>
