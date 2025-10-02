@@ -137,9 +137,9 @@
           </div>
         </div>
 
-      </div> <!-- end row g-3 -->
-    </div> <!-- end col-12 -->
-  </div> <!-- end row my-3 -->
+      </div>
+    </div>
+  </div> 
 
 
 

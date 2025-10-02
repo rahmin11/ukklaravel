@@ -1,5 +1,5 @@
 <!--SECTION FOOTER-->
-    <footer class="bg-dark text-light pt-2 pb-5">
+    <footer class="bg-dark text-light pt-2 pb-5 my-5" style="border-radius: 10px;">
       <div class="container">
         <div class="row">
         
@@ -16,7 +16,7 @@
           </div>
           <div class="col-3">
             <h5>peta goole maps</h5>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2131163620293!2d108.25189907516129!3d-7.329945292678382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f59eeb6bda36f%3A0xa9e724a275da6c2d!2sSMK%20Negeri%204%20Tasikmalaya!5e0!3m2!1sid!2sid!4v1755655333187!5m2!1sid!2sid" width="250" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.2131163620293!2d108.25189907516129!3d-7.329945292678382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f59eeb6bda36f%3A0xa9e724a275da6c2d!2sSMK%20Negeri%204%20Tasikmalaya!5e0!3m2!1sid!2sid!4v1755655333187!5m2!1sid!2sid" width="200" height="95" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
           
           <!-- SNS (Social Media) -->
@@ -52,7 +52,6 @@
             </ul>
           </div>
         </div>
-        <div class="row my-5">
           <div class="col-12 text-center">
             &copy;2025. All rights reserved. Rahmi Nurshasifa
           </div>

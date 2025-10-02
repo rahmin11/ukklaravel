@@ -1,26 +1,26 @@
 <?php
 
-use App\Http\Controllers\EskulController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\EskulController;
+use App\Http\Controllers\GaleriController;
 
-Route::get('/home', function () {
+// Halaman Utama
+Route::get('/', function () {
     return view('index');
 });
 
+// Halaman Profil
 Route::get('/profil', function () {
     return view('profil');
 });
 
-Route::get('/', function () {
-    return view('ektrakulikuler');
-});
-
-Route::get('/galeri', function () {
-    return view('galeri');
-});
-
+// Halaman Identitas
 Route::get('/identitas', function () {
     return view('identitas'); 
 });
 
-Route::get('/ektrakulikuler',[EskulController::class,'index']);
+// Halaman Ekstrakurikuler
+Route::get('/ektrakulikuler', [EskulController::class, 'index']);
+
+// Halaman Galeri
+Route::get('/galeri', [GaleriController::class, 'index']);
